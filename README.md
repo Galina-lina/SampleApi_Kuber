@@ -37,10 +37,11 @@ spec:
           ports:
             - containerPort: 8080
       hostAliases:
-      - ip: "192.168.65.1" # The IP of localhost from MiniKube
+      - ip: "192.168.49.1" # The IP of localhost from MiniKube
         hostnames:
         - postgres.local
-        ```
+  ```
+        
 - service.yaml 
 
 ```
