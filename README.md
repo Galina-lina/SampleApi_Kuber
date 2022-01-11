@@ -61,3 +61,4 @@ spec:
  ```
 ### Список запущенных подов
 
+![Image alt](https://github.com/Galina-lina/SampleApi_Kuber/blob/main/pods.png)
