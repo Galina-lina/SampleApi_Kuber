@@ -59,3 +59,5 @@ spec:
   selector:
     app: sampleapi-app
  ```
+### Список запущенных подов
+
