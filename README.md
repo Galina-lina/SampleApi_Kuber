@@ -41,3 +41,20 @@ spec:
         hostnames:
         - postgres.local
         ```
+- service.yaml 
+
+```
+apiVersion: v1
+kind: Service
+metadata:
+  name: sampleapi-service
+spec:
+  type: NodePort
+  ports:
+    - nodePort: 31317
+      port: 8080
+      protocol: TCP
+      targetPort: 8080
+  selector:
+    app: sampleapi-app
+ ```
