@@ -68,3 +68,9 @@ spec:
 ![Image alt](https://github.com/Galina-lina/SampleApi_Kuber/blob/main/podlog.png)
 
 ![Image alt](https://github.com/Galina-lina/SampleApi_Kuber/blob/main/podlog2.png)
+
+### Осмотр подов в Dashboard Kebernetes
+
+![Image alt](https://github.com/Galina-lina/SampleApi_Kuber/blob/main/graph_interface1.png)
+
+![Image alt](https://github.com/Galina-lina/SampleApi_Kuber/blob/main/graph_interface2.png)
