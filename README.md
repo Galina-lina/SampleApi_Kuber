@@ -61,4 +61,10 @@ spec:
  ```
 ### Список запущенных подов
 
-![Image alt]
+![Image alt](https://github.com/Galina-lina/SampleApi_Kuber/blob/main/pods.png)
+
+### Логи пода
+
+![Image alt](https://github.com/Galina-lina/SampleApi_Kuber/blob/main/podlog.png)
+
+![Image alt](https://github.com/Galina-lina/SampleApi_Kuber/blob/main/podlog2.png)
